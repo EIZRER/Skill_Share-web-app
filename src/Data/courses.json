@@ -1,0 +1,128 @@
+{
+  "courses": [
+    {
+      "id": "web-dev-101",
+      "title": "Web Development Fundamentals",
+      "instructor": "John Smith",
+      "description": "Learn the basics of HTML, CSS, and JavaScript to build modern websites from scratch.",
+      "price": 49.99,
+      "category": "development",
+      "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+      "level": "Beginner",
+      "duration": "10 hours",
+      "chapters": [
+        {
+          "id": 1,
+          "title": "Introduction to HTML",
+          "duration": "1.5 hours",
+          "videoUrl": "https://example.com/videos/html-intro"
+        },
+        {
+          "id": 2,
+          "title": "CSS Styling Basics",
+          "duration": "2 hours",
+          "videoUrl": "https://example.com/videos/css-basics"
+        },
+        {
+          "id": 3,
+          "title": "JavaScript Fundamentals",
+          "duration": "3 hours",
+          "videoUrl": "https://example.com/videos/js-fundamentals"
+        }
+      ]
+    },
+    {
+      "id": "ui-ux-design",
+      "title": "UI/UX Design Masterclass",
+      "instructor": "Sarah Johnson",
+      "description": "Master the principles of user interface and user experience design with practical projects.",
+      "price": 59.99,
+      "category": "design",
+      "thumbnail": "https://images.unsplash.com/photo-1561070791-2526d30994b5",
+      "level": "Intermediate",
+      "duration": "12 hours",
+      "chapters": [
+        {
+          "id": 1,
+          "title": "Design Principles",
+          "duration": "2 hours",
+          "videoUrl": "https://example.com/videos/design-principles"
+        },
+        {
+          "id": 2,
+          "title": "User Research",
+          "duration": "2.5 hours",
+          "videoUrl": "https://example.com/videos/user-research"
+        },
+        {
+          "id": 3,
+          "title": "Prototyping",
+          "duration": "3 hours",
+          "videoUrl": "https://example.com/videos/prototyping"
+        }
+      ]
+    },
+    {
+      "id": "digital-marketing",
+      "title": "Digital Marketing Strategy",
+      "instructor": "Mike Wilson",
+      "description": "Learn effective digital marketing strategies for business growth.",
+      "price": 44.99,
+      "category": "marketing",
+      "thumbnail": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07",
+      "level": "All Levels",
+      "duration": "8 hours",
+      "chapters": [
+        {
+          "id": 1,
+          "title": "Marketing Fundamentals",
+          "duration": "1.5 hours",
+          "videoUrl": "https://example.com/videos/marketing-basics"
+        },
+        {
+          "id": 2,
+          "title": "Social Media Marketing",
+          "duration": "2 hours",
+          "videoUrl": "https://example.com/videos/social-media"
+        },
+        {
+          "id": 3,
+          "title": "SEO Strategies",
+          "duration": "2.5 hours",
+          "videoUrl": "https://example.com/videos/seo"
+        }
+      ]
+    },
+    {
+      "id": "python-data-science",
+      "title": "Python for Data Science",
+      "instructor": "David Chen",
+      "description": "Learn Python programming with focus on data analysis and visualization.",
+      "price": 69.99,
+      "category": "development",
+      "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+      "level": "Intermediate",
+      "duration": "15 hours",
+      "chapters": [
+        {
+          "id": 1,
+          "title": "Python Basics",
+          "duration": "3 hours",
+          "videoUrl": "https://example.com/videos/python-basics"
+        },
+        {
+          "id": 2,
+          "title": "Data Analysis with Pandas",
+          "duration": "4 hours",
+          "videoUrl": "https://example.com/videos/pandas"
+        },
+        {
+          "id": 3,
+          "title": "Data Visualization",
+          "duration": "3 hours",
+          "videoUrl": "https://example.com/videos/visualization"
+        }
+      ]
+    }
+  ]
+} 
